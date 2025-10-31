@@ -14,7 +14,7 @@
 
 html {
   font-family: "Figtree", sans-serif;
-  background-color: var(--yellow-color);
+  /* background-color: var(--yellow-color); */
   font-size: 16px;
 }
 
@@ -99,4 +99,5 @@ h1:hover {
     cursor: pointer;
   }
 }
+
 
