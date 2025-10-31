@@ -14,7 +14,7 @@
 
 html {
   font-family: "Figtree", sans-serif;
-  /* background-color: var(--yellow-color); */
+  background-color: var(--yellow-color);
   font-size: 16px;
 }
 
@@ -74,7 +74,6 @@ h1:hover {
   display: flex;
   align-items: center;
   gap: 10px;
-  margin-top: 20px;
 }
 
 .avatar img {
@@ -99,5 +98,6 @@ h1:hover {
     cursor: pointer;
   }
 }
+
 
 
